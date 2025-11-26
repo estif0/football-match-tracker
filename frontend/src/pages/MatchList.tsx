@@ -366,12 +366,6 @@ export function MatchList() {
 						<p className="mb-6 text-gray-500">
 							Create and start matches from the admin panel
 						</p>
-						<Link
-							to="/admin"
-							className="inline-block bg-purple-600 hover:bg-purple-700 px-6 py-3 rounded-lg font-medium text-white transition-colors"
-						>
-							Go to Admin Panel
-						</Link>
 					</div>
 				)}
 			</div>
