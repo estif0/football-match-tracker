@@ -2,6 +2,8 @@
 
 A full-stack demo application showcasing real-time match updates using **Server-Sent Events (SSE)**. Watch live football matches with automatic event generation and real-time score updates.
 
+[Watch the Demo Video](https://youtu.be/T83GErEH1UA)
+
 ## Architecture
 
 -   **Frontend**: React + TypeScript + Vite + Tailwind CSS (Port 5173)
